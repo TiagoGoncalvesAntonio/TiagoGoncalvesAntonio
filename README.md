@@ -46,7 +46,7 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" width="40"/>
+        <img src="https://files.brandlogos.net/svg/4yu3BbTeAj/Ansys-OLDuI5KYk_brandlogos.net.svg" width="40"/>
       </a>
       <br>Ansys
     </td>
