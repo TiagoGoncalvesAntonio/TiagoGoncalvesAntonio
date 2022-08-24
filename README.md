@@ -6,7 +6,7 @@
 I'm currently finishing my master's degree in Mechanical Engineering at the <a href="https://escolanaval.marinha.pt/pt"> <b> Portuguese Naval Academy </b></a>, with the purpose of working as an officer in the Portuguese Navy.<br>
 ◽ Intrested in <b>Robotics</b>, <b>Mathematical Modeling</b> and <b>Autonomous Vehicles</b>.<br>
 ◽ I would like to learn more about <b>Machine Learning</b> applied, in particular, to the control of autonomous vehicles.<br>
-◽ I am currently developing, for my master's thesis, a mathematical model of a <b>Biomimetic Underwater Vehicle (BUV)<\b> capable of simulating its dynamic behavior, estimating its performance, on which control algorithms can be implemented.<br>
+◽ I am currently developing, for my master's thesis, a mathematical model of a <b>Biomimetic Underwater Vehicle (BUV)</b> capable of simulating its dynamic behavior, estimating its performance, on which control algorithms can be implemented.<br>
 
 <br>
 <a href="https://github.com/TiagoGoncalvesAntonio">
@@ -22,9 +22,9 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="[https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg)" width="40"/>
       </a>
-      <br>HTML
+      <br>Matlab
     </td>
     <td align="center" width="96">
       <a>
