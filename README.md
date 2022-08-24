@@ -40,7 +40,7 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" width="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
       </a>
       <br>SolidWorks
     </td>
