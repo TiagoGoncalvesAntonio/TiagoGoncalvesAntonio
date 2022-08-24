@@ -28,9 +28,9 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
       </a>
-      <br>CSS
+      <br>Python
     </td>
     <td align="center" width="96">
       <a>
