@@ -15,8 +15,7 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
 
 <div id="tech"></div>
 
-## 💻 Things I know
-> <i>Tools, languages, and other things that I like to work with.</i>
+## 💻 Languages & Tools
 <br>
 <table>
   <tr>
@@ -49,12 +48,6 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
         <img src="https://files.brandlogos.net/svg/4yu3BbTeAj/Ansys-OLDuI5KYk_brandlogos.net.svg" width="40"/>
       </a>
       <br>Ansys
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
     </td>
   </tr>
 </table>
