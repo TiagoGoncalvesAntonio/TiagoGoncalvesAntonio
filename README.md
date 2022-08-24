@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/110428731/186437741-693bb59a-e003-4e95-acef-414ba3ff109a.png" alt="tiago banner">
 
 ## :raising_hand_man: About me:
-I'm currently finishing my master's degree in Mechanical Engineering at the <a href="https://escolanaval.marinha.pt/pt"> <b> Portuguese Naval Academy </b></a>, in order to work as an Officer in the Portuguese Navy.  .<br>
+I'm currently finishing my master's degree in Mechanical Engineering at the <a href="https://escolanaval.marinha.pt/pt"> <b> Portuguese Naval Academy </b></a>, with the purpose of working as an officer in the Portuguese Navy.<br>
 ◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
 ◽ I like minimal art style.<br>
 ◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
