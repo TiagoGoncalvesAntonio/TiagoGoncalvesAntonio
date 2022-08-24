@@ -34,15 +34,21 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="40"/>
+      </a>
+      <br>LabView
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" width="40"/>
       </a>
       <br>SolidWorks
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="40"/>
       </a>
-      <br>React
+      <br>LabView
     </td>
     <td align="center" width="96">
       <a>
