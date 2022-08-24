@@ -2,8 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/110428731/186437741-693bb59a-e003-4e95-acef-414ba3ff109a.png" alt="tiago banner">
 
-## :raising_hand: About me:
-I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
+## :raising_hand_man: About me:
+I'm currently finishing my master's degree in Mechanical Engineering at the <a href="https://escolanaval.marinha.pt/pt"> <b> Portuguese Naval Academy </b></a>.<br>
 ◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
 ◽ I like minimal art style.<br>
 ◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
