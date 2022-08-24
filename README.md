@@ -58,13 +58,7 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/tiago-gon%C3%A7alves-ant%C3%B3nio-20714323b/"> <img alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="https://github.com/soilshubham/soilshubham/blob/main/icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soilshubham/"><img alt="Instagram" title="Instagram" src="https://github.com/soilshubham/soilshubham/blob/main/icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:soilshubham@gmail.com"><img alt="mail" title="mail" src="https://github.com/soilshubham/soilshubham/blob/main/icons/gmail.svg" width=20px/></a>
+  <a href="https://www.instagram.com/tiago.g.antonio/"><img alt="Instagram" title="Instagram" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
+   <a href="tiagoantonio27@gmail.com"><img alt="mail" title="mail" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width=20px/></a>
 </p>
 <br>
-
------
-Credits: [soilshubham](https://github.com/soilshubham)
-
-Last Edited on: 11/05/2021
