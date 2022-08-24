@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Tiago 👋
 
-<img src="https://user-images.githubusercontent.com/110428731/186436314-3dc651b3-8bb3-4dda-8cc5-cd43b856868a.png" alt="tiago banner" width=100%>
+<img src="https://user-images.githubusercontent.com/110428731/186436314-3dc651b3-8bb3-4dda-8cc5-cd43b856868a.png" alt="tiago banner">
 
 ## :raising_hand: About me:
 I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
