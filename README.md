@@ -56,24 +56,6 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/unity.svg" width="40"/>
-      </a>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td> 
   </tr>
 </table>
 <br>
