@@ -22,7 +22,7 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="[https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg)" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
       </a>
       <br>Matlab
     </td>
