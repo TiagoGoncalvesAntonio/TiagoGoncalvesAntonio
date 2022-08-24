@@ -10,7 +10,7 @@ I'm currently finishing my master's degree in Mechanical Engineering at the <a h
 
 <br>
 <a href="https://github.com/soilshubham">
-   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
+   <img src="https://github-readme-stats.vercel.app/api?username=TiagoGoncalvesAntonio&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Tiago's github stats" width=450px/>
 </a><br><br>
 
 <div id="tech"></div>
