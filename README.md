@@ -6,7 +6,7 @@
 I'm a Mechanical Engineer working as an officer in the Portuguese Navy.<br>
 ◽ Intrested in <b>Robotics</b>, <b>Mathematical Modeling</b> and <b>Autonomous Vehicles</b>.<br>
 ◽ I would like to learn more about <b>Machine Learning</b> applied, in particular, to the control of Autonomous Vehicles.<br>
-◽ I like to solve problems! :smiley:<br>
+◽ I solve problems! :smiley:<br>
 
 
 <br>
