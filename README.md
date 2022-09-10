@@ -6,7 +6,8 @@
 I'm a Mechanical Engineer working as an officer in the Portuguese Navy.<br>
 ◽ Intrested in <b>Robotics</b>, <b>Mathematical Modeling</b> and <b>Autonomous Vehicles</b>.<br>
 ◽ I would like to learn more about <b>Machine Learning</b> applied, in particular, to the control of Autonomous Vehicles.<br>
-◽ I am currently developing, for my master's thesis, a mathematical model of a <b>Biomimetic Underwater Vehicle (BUV)</b> capable of simulating its dynamic behavior, estimating its performance, on which control algorithms can be implemented.<br>
+◽ I like to solve problems! :smiley:<br>
+
 
 <br>
 <a href="https://github.com/TiagoGoncalvesAntonio">
