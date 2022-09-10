@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/110428731/186437741-693bb59a-e003-4e95-acef-414ba3ff109a.png" alt="tiago banner">
 
 ## :raising_hand_man: About me:
-I'm currently finishing my master's degree in Mechanical Engineering at the <a href="https://escolanaval.marinha.pt/pt"> <b> Portuguese Naval Academy </b></a>, with the purpose of working as an officer in the Portuguese Navy.<br>
+I'm a Mechanical Engineer working as an officer in the Portuguese Navy.<br>
 ◽ Intrested in <b>Robotics</b>, <b>Mathematical Modeling</b> and <b>Autonomous Vehicles</b>.<br>
 ◽ I would like to learn more about <b>Machine Learning</b> applied, in particular, to the control of Autonomous Vehicles.<br>
 ◽ I am currently developing, for my master's thesis, a mathematical model of a <b>Biomimetic Underwater Vehicle (BUV)</b> capable of simulating its dynamic behavior, estimating its performance, on which control algorithms can be implemented.<br>
